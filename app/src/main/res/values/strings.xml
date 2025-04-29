@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DVDLoc_WEBER</string>
+    <string name="txtBtnPolicier">Policier</string>
+    <string name="txtBtnFiction">Fiction</string>
+    <string name="txtBtnDocumentaire">Documentaire</string>
+    <string name="txtBtnSerie">Serie</string>
+    <string name="txtMenuRechercher">Rechercher un film</string>
+    <string name="txtMenuReserver">Reserver un film</string>
+    <string name="txtMenuMag">Magasins</string>
+    <string name="txtMenuPresentation">Presentation</string>
+    <string name="txtMenuContact">Contact</string>
+    <string name="txtMenuEquipe">Equipe</string>
+    <string name="txtMenuCroissance">Croissance</string>
+    <string name="txtListePoliciers">Liste des films policiers.</string>
+    <string name="txtListeFictions">Liste des films fictions.</string>
+    <string name="txtListeDocus">Liste des films documentaires.</string>
+    <string name="txtListeSeries">Liste des films séries.</string>
+    <string name="txtReserver">Voulez-vous réserver pour le film "Avatar" ?</string>
+    <string name="txtbtnConfirmer">Confirmer</string>
+    <string name="txtbtnAnnuler">Annuler</string>
+    <string name="txtEditRecherche">Recherche</string>
+    <string name="txttitreDemande">Titre demandé</string>
+</resources>
